@@ -16,3 +16,8 @@ To avoid unwanted noise in the old age group, multiple ages are grouped into six
 This is visualize using bar plot as shown below
 
 ![age2.png](age2.png)
+
+### Conversions vs Non-conversions
+Next, demographic differences between converted and clients and non-converted clients are identified.
+ This is done by counting the number of conversions and non-conversions for each marital status using pandas pivot_table function.
+ ![conv1.png](con1.png)
