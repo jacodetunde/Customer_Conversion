@@ -1,3 +1,12 @@
 # Customer_Conversion
 ## Project Overview:
 This project involves using python to compute and visualize KPIs for a bank. With focus attention on analyzing conversion rates using bank marketing data.
+## Tools and libraries
+Python, Matplotlib
+## Analysis
+### Aggregate Conversion rate.
+This is done by dividing the total number of clients subscribed to a term deposit by the total number of clients 
+- the conversition rate is 11.27%
+### Conversion Rates by Age
+This is done by grouping the clients by age and sum over the conversion column to get the total number of conversions by each age.
+Then the group by age is then divided by total number of clients in each age group.
