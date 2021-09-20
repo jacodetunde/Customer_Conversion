@@ -29,3 +29,6 @@ It is also represented using pie charts as follows:
 ### Conversion by Age and Marital Status
 This is done by grouping into two columns age_group and marital. Summed the number of conversions in each group and then divide by the total number of clients in each group. Yielded the below results:
 ![mar1.png](mar1.png)
+
+This can be visualized using clustered bar charts as this:
+![mar2.png](mar2.png)
