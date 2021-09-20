@@ -21,3 +21,6 @@ This is visualize using bar plot as shown below
 Next, demographic differences between converted and clients and non-converted clients are identified.
  This is done by counting the number of conversions and non-conversions for each marital status using pandas pivot_table function.
  ![conv1.png](conv1.png)
+ It is also represented using pie charts as follows
+ 
+ ![conv2.png](conv2.png)
