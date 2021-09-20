@@ -13,3 +13,6 @@ Then the group by age is then divided by total number of clients in each age gro
 To avoid unwanted noise in the old age group, multiple ages are grouped into six groups, based on their age:  between 18 and  30, between 30 and 40, between 40 and 50, between 50 and 60, between 60 and 70, and 70 older. The resulting data are below.
 
 ![age1.png](age1.png)
+This is visualize using bar plot as shown below
+
+![age2.png](age2.png)
